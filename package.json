@@ -3,7 +3,7 @@
   "private": true,
   "name": "custom-material-ui-date-picker",
   "description": "Material-ui pickers root package",
-  "main": "index.js",
+  "main": "./lib/src/index.ts",
   "directories": {
     "doc": "docs",
     "lib": "lib"
